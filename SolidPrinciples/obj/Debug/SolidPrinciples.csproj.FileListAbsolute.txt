@@ -1,0 +1,9 @@
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe.config
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csprojResolveAssemblyReference.cache
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.Form1.resources
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.Properties.Resources.resources
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.GenerateResource.Cache
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+c:\users\almacen\documents\visual studio 2015\Projects\SolidPrinciples\SolidPrinciples\obj\Debug\SolidPrinciples.pdb
